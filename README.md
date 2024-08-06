@@ -44,8 +44,9 @@ Enter the number corresponding to the position where you want to place your mark
 ## Compilation
 
 To compile the game, use the following command:
-gcc -o tictactoe tictactoe.c
-
+  ```
+  gcc -o tictactoe main.c
+  ```
 ## Running the Game
 
 After compilation, run the game using:
