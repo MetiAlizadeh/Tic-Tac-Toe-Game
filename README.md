@@ -23,9 +23,11 @@ This is a simple command-line implementation of the classic Tic Tac Toe game wri
 ## Board Layout
 
 The board is represented as follows:
+```
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
 | 7 | 8 | 9 |
+```
 Enter the number corresponding to the position where you want to place your mark.
 
 ## Functions
